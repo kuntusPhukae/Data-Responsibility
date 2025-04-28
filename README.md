@@ -1,2 +1,5 @@
-# SQL-Scripts-
-Sample SQL scripts for query data.
+# Data-Responsibility
+  - SQL Scripts for data query.
+  - Python for data transform.
+  - Excel for analysis and presentation.
+
